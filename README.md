@@ -47,3 +47,9 @@ manim -pql AdditionFractions.py AdditionFractionsScene
 
 ## ✨ Contributions
 All python files in the `Source` folder were authored and continuously iterated upon to deliver production-ready educational assets during my core development phase at Skillbanc.
+
+## 📱 Other Technical Works & Portfolio
+In addition to these educational animations, my portfolio includes:
+- **Flutter & Android Studio Mobile Apps**: Developed natively compiled applications (such as targeted quiz apps) using the Flutter UI toolkit and Android Studio.
+- **Deep Learning / Time-Series (LSTM)**: Specialized models for climate forecasting.
+- **Computer Vision**: Gesture-based control systems for media players.
